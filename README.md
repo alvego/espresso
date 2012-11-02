@@ -5,5 +5,4 @@ Espresso CSS Framework
 
 Espresso CSS Framework could be a base for your site. On the basis of Espresso CSS Framework you can create different kinds of sites.
 
-CSS Framework
-LESS based
+Espresso utilizes LESS - the dynamic stylesheet language.
